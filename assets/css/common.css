@@ -1,8 +1,8 @@
 html {
   color: #c71585;
   background-image: url(https://i.pinimg.com/564x/19/a3/8c/19a38c7bf6f9abbda0cbf4a987fdea47.jpg);
+  background-attachment: fixed;
   
-  background-size: 2304px 1440px;
 }
 
 *{
